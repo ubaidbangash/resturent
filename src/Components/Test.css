@@ -1,0 +1,45 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.test{
+    text-align: center;
+}
+.test img{
+width: 150px;
+height: 150px;
+padding: 15px;
+
+}
+
+h2{
+    color:  cadetblue;
+    margin-top: 20px;
+    text-align: center;
+    font-family: monospace;
+    font-size: 45px;
+    font-weight: 500;
+}
+.test__text {
+    color: black;
+    text-align: justify;
+    font-family: monospace;
+    background-color: gainsboro;
+    border-radius: 10px;
+    padding: 20px;
+    padding-top: 50px;
+    
+}
+.test__text h1{
+    text-align: center;
+    color:  cadetblue;
+}
+.test__text:hover {
+   transition: all 2s;
+   background-color: darkslategrey;
+    
+}
+.dev-section img{
+    width: 150px;
+    height: 150px;
+}

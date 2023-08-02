@@ -1,0 +1,34 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.menu{
+    width: 100%;
+    background-color: #343a40;
+    
+
+}
+.menu img{
+    width: 50px;
+    object-fit: cover;
+    
+}
+.navbar-dark .navbar-nav .nav-link{
+    color: white; 
+}
+.navbar ul li a{
+    color: white;
+    padding-left:80px;
+}
+.menu {
+color: white;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+.menu :hover{ 
+    color:  cadetblue;
+} 
+.navbar-brand img{
+    width: 400px;
+    height: 80px;
+}

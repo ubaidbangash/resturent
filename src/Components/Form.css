@@ -1,0 +1,41 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.form h2{
+    color: black;
+    margin-top: 20px;
+    font-family: monospace;
+    font-size: 50px;
+    font-weight: 700;
+    text-align: justify;
+    padding-right: 27px;
+    
+}
+.form p{
+    color: black;
+    font-family: monospace;
+    text-align: justify;
+}
+.dev-text{
+    color: black;
+    font-family: monospace;
+    text-align: justify;
+}
+.login{
+    border: 1px solid red;
+    margin-left: 100px;
+    padding: 25px;
+    background-color: cadetblue;
+    margin-top: 35px;
+    border-radius: 5px;
+}
+.btn-form{
+    background-color: black;
+    margin-left: 50px;
+}
+.dev-heading h2{
+    color: black;
+    font-size: 25px;
+    text-align: justify;
+}
